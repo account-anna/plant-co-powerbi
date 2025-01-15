@@ -1,5 +1,8 @@
 # Perfomance Report Sales Performance Dashboard
 
+## Dashboard Preview
+[Performance Report.pdf](https://github.com/user-attachments/files/18429750/Performance.Report.pdf)
+
 ## Project Overview
 - **Objective**: Develop an interactive and insightful dashboard to evaluate Plant Co’s sales performance across time, geography, product, and accounts.
 - **Goal**: Provide stakeholders with actionable insights to optimize sales strategies and enhance overall business performance.
