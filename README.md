@@ -8,16 +8,18 @@
 - **Goal**: Provide stakeholders with actionable insights to optimize sales strategies and enhance overall business performance.
 
 ## Business Impact
-- **Identify Underperforming Areas**: Highlight regions and products underperforming, enabling targeted improvement strategies.
-- **Monitor Sales Trends**: Provide a clear view of sales trends over time, helping the business adjust strategies based on seasonal performance.
-- **Assess Profitability**: Allow a deep dive into account profitability, ensuring resources are focused on high-value accounts.
-- **Strategic Planning**: Compare YTD vs PYTD performance to set realistic goals and make informed strategic decisions.
+The dashboard delivers significant business value by enabling Plant Co to:
+- **Identify Underperforming Areas**: By highlighting regions and products that are underperforming, stakeholders can develop targeted improvement strategies.
+- **Monitor Sales Trends**: The dashboard provides a clear view of sales trends over time, allowing the business to adjust strategies based on seasonal performance.
+- **Assess Profitability**: With detailed insights into account profitability, resources can be focused on high-value accounts.
+- **Strategic Planning**: Comparing Year-To-Date (YTD) and Previous Year-To-Date (PYTD) performance helps set realistic goals and make informed strategic decisions.
 
-## Key Achievements
-- **Data Integration and Cleaning**: Successfully combined data from multiple sources and cleaned it for analysis.
-- **Interactive Visualizations**: Created various Power BI visualizations to present data insights in an engaging manner.
-- **Analytical Calculations**: Developed calculated columns and measures, such as total sales, average price, and gross profit, to support data analysis.
-- **Performance Metrics**: Implemented YTD and PYTD comparisons to evaluate sales performance over time.
+## Project Highlights
+Some of the accomplishments of this project were:
+- **Data Integration and Cleaning**: Successfully combined and cleaned data from multiple sources to ensure accurate analysis.
+- **Interactive Visualizations**: Created engaging Power BI visualizations to present data insights effectively.
+- **Analytical Calculations**: Developed calculated columns and measures, such as total sales, average price, and gross profit, to support robust data analysis.
+- **Performance Metrics**: Implemented YTD and PYTD comparisons to evaluate sales performance comprehensively.
 
 ## Conclusion
 - **Summary**: This Power BI project involved the creation of a comprehensive sales performance dashboard for Plant Co. By integrating and analyzing data from multiple sources, the dashboard provides valuable insights into sales trends, profitability, and strategic opportunities.
