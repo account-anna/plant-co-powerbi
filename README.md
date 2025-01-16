@@ -23,4 +23,4 @@ Some of the accomplishments of this project were:
 
 ## Conclusion
 - **Summary**: This Power BI project involved the creation of a comprehensive sales performance dashboard for Plant Co. By integrating and analyzing data from multiple sources, the dashboard provides valuable insights into sales trends, profitability, and strategic opportunities.
-- **Value to Plant Co**: The dashboard enables data-driven decision-making, helping Plant Co optimize sales strategies and enhance overall business performance. This project demonstrates effective data analysis, visualization, and business intelligence capabilities.
+- **Value to the company**: The dashboard enables data-driven decision-making, helping Plant Co optimize sales strategies and enhance overall business performance. This project demonstrates effective data analysis, visualization, and business intelligence capabilities.
