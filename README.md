@@ -1,4 +1,4 @@
-# Perfomance Report Sales Performance Dashboard
+# Perfomance Report Sales Report Dashboard
 
 ## Project Overview
 - **Objective**: Develop an interactive and insightful dashboard to evaluate Plant Co’s sales performance across time, geography, product, and accounts.
